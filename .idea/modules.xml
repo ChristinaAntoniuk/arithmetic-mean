@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$//ArithmeticMean.iml" filepath="$PROJECT_DIR$//ArithmeticMean.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ArithmeticMean.iml" filepath="$PROJECT_DIR$/ArithmeticMean.iml" />
     </modules>
   </component>
 </project>
